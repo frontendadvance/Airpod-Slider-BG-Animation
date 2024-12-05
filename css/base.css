@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  overflow-x: hidden;
+}
+img {
+  user-select: none;
+}
+body {
+  overflow-x: hidden;
+  position: relative;
+  font-family: "Outfit", sans-serif;
+  height: 100svh;
+}
+a {
+  display: inline-block;
+}
